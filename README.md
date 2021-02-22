@@ -6,7 +6,7 @@ You may either download the static version or access the live binder version of 
 
 PS : you might experience troubles importing sklearn librairies if you are using the live version
 
-Notebook content : 
+Notebook contents : 
 
 1 - Dataset review\
 2 - Data extraction exercise\
