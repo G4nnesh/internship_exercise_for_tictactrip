@@ -6,13 +6,13 @@ You may either download the static version or access the live binder version of 
 
 PS : you might experience troubles importing sklearn librairies if you are using the live version
 
-Notebook content
+Notebook content : \
 
-1 - Dataset review
-2 - Data extraction exercise
-	2 - 1 - Prices
-	2 - 2 - Durations
-  2 - 3 - Price and duration difference per transport mean and per travel range
-3 - Bonus
-  3 - 1 - Kilometer price per company
-  3 - 1 - New trainline !
+1 - Dataset review\
+2 - Data extraction exercise\
+	2 - 1 - Prices\
+	2 - 2 - Durations\
+  2 - 3 - Price and duration difference per transport mean and per travel range\
+3 - Bonus\
+  3 - 1 - Kilometer price per company\
+  3 - 1 - New trainline !\
