@@ -2,7 +2,7 @@
 Interactive Jupyter notebook of an exercise for an internship Data Scientist position at Tictactrip
 
 You may either download the static version or access the live binder version of the notebook available here :
-https://mybinder.org/v2/gh/G4nnesh/internship_exercise_for_tictactrip/main?filepath=tictactrip_internship_exercise_El_Mehdi_CHOUHAM.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G4nnesh/internship_exercise_for_tictactrip/main?filepath=tictactrip_internship_exercise_El_Mehdi_CHOUHAM.ipynb)
 
 PS : you might experience troubles importing sklearn librairies if you are using the live version
 
