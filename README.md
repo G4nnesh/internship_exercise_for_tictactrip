@@ -1,5 +1,5 @@
-# internship_exercise_for_tictactrip
-Interactive Jupyter notebook of an exercise for an internship Data Scientist position at Tictactrip
+# new trainline pricing
+Interactive Jupyter notebook for a new french trainline pricing
 
 You may either download the static version or access the live binder version of the notebook available here :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G4nnesh/internship_exercise_for_tictactrip/main?filepath=tictactrip_internship_exercise_El_Mehdi_CHOUHAM.ipynb)
