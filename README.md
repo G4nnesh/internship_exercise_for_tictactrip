@@ -1,4 +1,4 @@
-# new trainline pricing
+# New trainline pricing
 Interactive Jupyter notebook for a new french trainline pricing
 
 You may either download the static version or access the live binder version of the notebook available here :
